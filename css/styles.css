@@ -46,7 +46,6 @@ head {
 }
 
   .a-nav {
-     font-family: 'Roboto';
      font-weight: 500;
      font-size: 16px;
      color: #2E2F42;
@@ -63,7 +62,6 @@ head {
      color: #404BBF;
   }
   .a-address {
-     font-family: 'Roboto';
      font-size: 16px;
      color: #434455;
      letter-spacing: 0.02em;
@@ -91,7 +89,6 @@ head {
   }
 
   .title-one {
-     font-family: 'Roboto';
      color: #FFFFFF;
      font-size: 56px;
      font-weight: 700;
@@ -102,7 +99,6 @@ head {
   }
 
   .button {
-     font-family: "Roboto", sans-serif;
      font-size: 16px;
      color: #FFFFFF;
      font-weight: 500;
@@ -125,7 +121,6 @@ head {
   }
 
   .title-two {
-     font-family: 'Roboto';
      font-weight: 700;
      font-size: 36px;
      color: #2E2F42;
@@ -136,7 +131,6 @@ head {
   }
 
   .title-three {
-     font-family: 'Roboto';
      font-weight: 500;
      font-size: 20px;
      color: #2E2F42;
@@ -145,7 +139,6 @@ head {
   }
 
   p {
-     font-family: 'Roboto';
      font-size: 16px;
      color: #434455;
      line-height: 24px;
